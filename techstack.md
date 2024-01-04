@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ubogdan/cloud-on-k8s](https://github.com/ubogdan/cloud-on-k8s)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|141<br/>Tools used|12/14/23 <br/>Report generated|
+|141<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
