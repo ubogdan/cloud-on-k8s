@@ -1,7 +1,8 @@
 repo_name: ubogdan/cloud-on-k8s
-report_id: 9e2716f3f64c2680c4f4fa4e8173fc92
+report_id: 3a5f2d0ccfe630f243f49360802d7699
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:59:28+00:00'
+timestamp: '2024-01-04T15:14:59+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: main
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-10-19 09:46:13.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/hack/helm/release/go.mod
   detection_source: hack/helm/release/go.mod
   last_updated_by: Michael Montgomery
   last_updated_on: 2023-02-06 15:26:38.000000000 Z
@@ -58,6 +63,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/hack/helm/release/go.mod
   detection_source: hack/helm/release/go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-11-07 12:51:09.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Thibault Richard
   last_updated_on: 2021-09-30 09:46:57.000000000 Z
@@ -81,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -90,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s
   detection_source: Repo Metadata
 - name: Kibana
   description: Visualize your Elasticsearch data and navigate the Elastic Stack
@@ -99,6 +108,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/build/Dockerfile
   detection_source: build/Dockerfile
   last_updated_by: Michael Montgomery
   last_updated_on: 2022-04-29 16:17:22.000000000 Z
@@ -112,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/build/Dockerfile
   detection_source: build/Dockerfile
   last_updated_by: Michael Montgomery
   last_updated_on: 2022-04-29 16:17:22.000000000 Z
@@ -124,6 +135,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/hack/helm/release/go.mod
   detection_source: hack/helm/release/go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-02-08 08:56:16.000000000 Z
@@ -137,6 +149,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-10-19 09:46:13.000000000 Z
@@ -150,6 +163,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-06-01 09:09:53.000000000 Z
@@ -161,6 +175,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/build/Dockerfile
   detection_source: build/Dockerfile
   last_updated_by: Thibault Richard
   last_updated_on: 2023-07-03 13:44:01.000000000 Z
@@ -172,6 +187,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Thibault Richard
   last_updated_on: 2021-09-30 09:46:57.000000000 Z
@@ -184,6 +200,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s
   detection_source: Repo Metadata
 - name: Masterminds/goutils
   description: GoUtils is a Go implementation of some string manipulation libraries
@@ -482,6 +499,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/hack/helm/release/go.mod
   detection_source: hack/helm/release/go.mod
   last_updated_by: Michael Montgomery
   last_updated_on: 2023-02-06 15:26:38.000000000 Z
@@ -494,6 +512,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-08-03 18:33:26.000000000 Z
@@ -1297,6 +1316,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-09-26 16:55:09.000000000 Z
@@ -1584,6 +1604,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ubogdan/cloud-on-k8s/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: renovate[bot]
   last_updated_on: 2023-10-19 09:46:13.000000000 Z
